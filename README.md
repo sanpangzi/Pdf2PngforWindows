@@ -9,9 +9,9 @@
       node convert.js<br>
       不出意外的话，你会看到test文件夹下，有4张图片，分别是1.png  2.png  3.png  4.png<br>
  # 注意点
-  1.本代码是借助Ghostscript实现的，这个Ghostscript可以像本文一样，直接放入文件夹内，也可以删除本文的executables文件夹，
-     自己安装Ghostscript，设置环境变量，在path里加入你的安装路径，如果你安装的是64位的Ghostscript，
-     要把D:\appweb\pdftopngforWindows\lib\pdf2png.js里的gs改为gswin64；
-     之后，把D:\appweb\pdftopngforWindows\lib\pdfPageCount.js里的gs改为gswin64
-  2. 本文参考的是(https://www.npmjs.com/package/pdf2png),有兴趣的话，可以看看原版。
-  3. 有任何问题，可以在issues中提，也可以联系我，QQ：3207740041
+  1.本代码是借助Ghostscript实现的，这个Ghostscript可以像本文一样，直接放入文件夹内，也可以删除本文的executables文件夹，<br>
+     自己安装Ghostscript，设置环境变量，在path里加入你的安装路径，如果你安装的是64位的Ghostscript，<br>
+     要把D:\appweb\pdftopngforWindows\lib\pdf2png.js里的gs改为gswin64；<br>
+     之后，把D:\appweb\pdftopngforWindows\lib\pdfPageCount.js里的gs改为gswin64<br>
+  2. 本文参考的是(https://www.npmjs.com/package/pdf2png),有兴趣的话，可以看看原版。<br>
+  3. 有任何问题，可以在issues中提，也可以联系我，QQ：3207740041<br>
