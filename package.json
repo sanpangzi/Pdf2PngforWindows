@@ -1,0 +1,7 @@
+{
+  "requires": true,
+  "dependencies": {
+    "filesource": "^1.0.7",
+    "tmp": "0.0.33"
+  }
+}
